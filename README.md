@@ -5,7 +5,7 @@ Built with LangGraph, it serves as a powerful example of an Agentic Workflow whe
 
 How to Run (Expected Workflow):
 
-1. Add your Open AI API in .env file
+1. Add your OpenAI API Key in .env file
 2. The script prompts the user for their name and feeling.
 3. The LangGraph chain is invoked with the collected input.
 4. The "Greet User" node uses the name.
